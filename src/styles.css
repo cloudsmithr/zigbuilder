@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin:0px;
+}
+
+.breaklineBlue
+{
+    width:100%;
+    border-top:1px solid #0b151B;
+    border-bottom: 1px solid #5CC7FF;
+}
+
+.breaklineGrey
+{
+    width:100%;
+    border-top:1px solid #000;
+    border-bottom: 1px solid #C4C4C4;;
+}

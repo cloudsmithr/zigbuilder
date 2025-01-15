@@ -1,0 +1,24 @@
+div{
+    width:100%;
+}
+
+.blueBar
+{
+    height:56px;
+    background: linear-gradient(to top, #122732 0%, #162F3C 16%, #295972 65%, #183E52 100%);
+}
+
+.greyBar
+{
+    height:34px;
+    background: linear-gradient(to bottom, #D9D9D9 0%, #EBEBEB 47%, #C7C7C7 67%, #737373 100%);
+}
+
+.purpleBar
+{
+    height: 83px;
+    background:
+        radial-gradient(rgba(0,0,0,0), rgba(91,204,253,0.12)),
+        linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.5)),
+        linear-gradient(to right, rgba(21,136,218,1), rgba(202,0,199,1) 100%);
+}
